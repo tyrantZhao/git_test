@@ -2,7 +2,7 @@
 
 #include <iostream>
 
-void ::TyrantZhao::Singleton::DoSomeThing()
+void ::tyrant::Singleton::DoSomeThing()
 {
     ::std::cout << "I'm test Singleton" << ::std::endl;
 }

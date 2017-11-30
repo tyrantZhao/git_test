@@ -5,7 +5,7 @@
 int main()
 {
     //correctly run
-    ::TyrantZhao::Singleton::getInstance().DoSomeThing();
+    ::tyrant::Singleton::getInstance().DoSomeThing();
 
     //occur compile error
     // ::TyrantZhao::Singleton Inst;

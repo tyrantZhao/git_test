@@ -1,7 +1,7 @@
 #ifndef __SINGLETON_H__
 #define __SINGLETON_H__
 
-namespace TyrantZhao
+namespace tyrant
 {
     //use local static variable type, compling with std11
     class Singleton
